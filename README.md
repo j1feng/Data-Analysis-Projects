@@ -2,14 +2,14 @@
 
 A few of the data analysis projects for practice that I have done at UCSD; There are other data science projects that I made that are not included in this repository;
 
-**Project 3: Beijing PM2.5 Linear Regression
+## Project 3: Beijing PM2.5 Linear Regression
 
 Date: December 2020
 
 - Predict the amount of PM2.5 concentration at Beijing given date and weather variables; Practice of data visualization and feature selection;
 
 
-**Project 2: Snapchat Political Advertisement Analysis
+## Project 2: Snapchat Political Advertisement Analysis
 
 Date: March 2020
 
@@ -20,7 +20,7 @@ Date: March 2020
 - It would be useful for these organization to decide how many to spend in order to meet their goal of impressions. We will make such model to predict the impression (target variable). Since the number of impression is a numberic, it is not a classfication problem, but a regression problem. The evaluation metric we can use for this regression model will be mainly R² or sometimes Coefficient of Determination, and Root-Mean-Squared-Error(RMSE).
   
   
-**Project 1: cardiovascular_disease_project
+## Project 1: cardiovascular_disease_project
 
 Date: December 2019
 
