@@ -8,6 +8,8 @@ Date: December 2020
 
 - Predict the amount of PM2.5 concentration at Beijing given date and weather variables; Practice of data visualization and feature selection;
 
+- Final Report of this project: https://github.com/jeffrey7377/Data_analysis_projects/blob/main/Beijing_pm25_linear_regression/Final_Report.pdf
+
 
 ## Project 2: Snapchat Political Advertisement Analysis
 
