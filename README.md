@@ -6,11 +6,11 @@ A few of the data analysis projects for practice that I have done at UCSD; There
 
 - The datasets come from https://www.snap.com/en-US/political-ads/. 
 
-- Performed data imputation and data wrangling on Snapchat political advertisement data from 2018;
+- Performed EDA, data imputation, and data wrangling on Snapchat political advertisement data in 2018;
 
-- Created models to predict the number of user impressions for advertisers using the scikit-learn library.
+- Created data modeling pipelines to predict the number of user impressions for advertisers using the scikit-learn library.
 
-- Evaluated models and created a comprehensive 40-page report with codes to communicate the results.
+- Evaluated the models and created a comprehensive report with codes to communicate meaningful results.
 
 ## Project 2: Beijing PM2.5 Linear Regression (2020)
 
